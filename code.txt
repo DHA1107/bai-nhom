@@ -1,0 +1,12 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Code</title>
+</head>
+<body>
+<h1 align="center" style="color:blue; font-weight:bold; text-decoration:underline; font-style:italic; font-size:40px">Trung tâm tin học</h1>
+<h2 style="text-decoration:underline">Yêu cầu:</h2>
+<h3>Thiết kế trang Web với nội dung như sau:</h3>
+<p align="center" style="font-family:Tahoma, Geneva, sans-serif; font-size:18px">Trung tâm tin học - ĐHBK<br>Chào mừng bạn đến với ngôn ngữ HTML</p>
+</body>
+</html>
